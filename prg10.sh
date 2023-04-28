@@ -6,3 +6,4 @@ test $num1 -gt $num2
 res=$?
 echo "The result is $res"
 #End
+hi  mani  darling
